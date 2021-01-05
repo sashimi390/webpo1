@@ -1,3 +1,6 @@
+const para=document.querySelector('p');
+let count=0;
+
 // setup canvas
 
 const canvas = document.querySelector('canvas');
